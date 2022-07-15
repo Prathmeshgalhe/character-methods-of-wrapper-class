@@ -1,0 +1,1 @@
+# character-methods-of-wrapper-class
